@@ -1,0 +1,27 @@
+#input-div{
+  height: fit-content;
+  background-color: red;
+  width: auto;
+  border-radius: 12px;
+  padding: 12px;
+  justify-content: center;
+  margin: 12px;
+  text-align: center;
+
+}
+
+#label{
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#task{
+  display: flex;
+  flex-direction: row;
+  background-color: blueviolet;
+  color: white;
+  padding: 12px;
+  border-radius: 12px;
+  margin: 20px;  
+  justify-content: space-between;
+}
